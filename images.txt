@@ -13,3 +13,6 @@ redis
 postgresql
 mysql
 golang
+alpine
+python
+node
