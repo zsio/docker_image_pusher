@@ -10,9 +10,13 @@
 nginx
 tailscale/tailscale
 redis
-postgresql
+postgres
 mysql
 golang
 alpine
 python
 node
+debian
+centos
+
+
