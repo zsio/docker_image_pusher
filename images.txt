@@ -20,7 +20,6 @@ portainer/portainer
 gdy666/lucky
 celery
 lobehub/lobe-chat
-pgvector/pgvector
 pgvector/pgvector:pg16
 minio/minio
 svhd/logto
