@@ -24,3 +24,4 @@ pgvector/pgvector:pg16
 minio/minio
 svhd/logto
 lobehub/lobe-chat-database
+zsio/langsaga
