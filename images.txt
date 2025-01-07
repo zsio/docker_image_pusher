@@ -5,6 +5,8 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+zsio/langsaga
+
 alpine
 
 golang
@@ -28,7 +30,7 @@ pgvector/pgvector:pg16
 minio/minio
 svhd/logto
 lobehub/lobe-chat-database
-zsio/langsaga
+
 
 calciumion/new-api:latest
 
