@@ -35,3 +35,4 @@ lobehub/lobe-chat-database
 
 calciumion/new-api:latest
 
+
