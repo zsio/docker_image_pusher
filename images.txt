@@ -23,6 +23,7 @@ postgres:15-alpine
 mysql
 mysql:8.2
 
+vaultwarden/server
 portainer/portainer
 gdy666/lucky
 celery
