@@ -16,6 +16,7 @@ node
 chromadb/chroma:0.6.0
 nginx
 tailscale/tailscale
+fredliang/derper
 redis
 redis:6-alpine
 postgres
