@@ -5,6 +5,7 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+
 zsio/langsaga
 
 alpine
@@ -30,11 +31,11 @@ gdy666/lucky
 celery
 lobehub/lobe-chat
 pgvector/pgvector:pg16
+pgvector/pgvector:pg17
 minio/minio
-svhd/logto
+casbin/casdoor
+searxng/searxng
 lobehub/lobe-chat-database
 
 
 calciumion/new-api:latest
-
-
