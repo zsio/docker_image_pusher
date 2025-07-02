@@ -41,3 +41,6 @@ lobehub/lobe-chat-database
 
 
 calciumion/new-api:latest
+
+
+ghcr.io/berriai/litellm:main-latest
